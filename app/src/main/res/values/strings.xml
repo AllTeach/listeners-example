@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Listeners Demo</string>
+    <string name="click_me">Click Me</string>
+    <string name="toggle_switch">Toggle Switch</string>
+    <string name="adjust_my_size">Adjust my size!</string>
+    <string name="anonymous_click">Anonymous Click</string>
+    <string name="button_clicked">Button Clicked!</string>
+    <string name="switch_on">Switch is ON</string>
+    <string name="switch_off">Switch is OFF</string>
+    <string name="started_changing_text_size">Started changing text size</string>
+    <string name="stopped_changing_text_size">Stopped changing text size</string>
+    <string name="clicked_with_anonymous_class">Clicked with anonymous class!</string>
+    <string name="sample_image_description">Sample image for opacity demo</string>
+</resources>
